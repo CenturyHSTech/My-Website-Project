@@ -71,6 +71,7 @@ Once the environment is set up, and you're ready to code...
 
 *NOTE: as you are codign your page, be sure to check your page for errors using the [W3C File Upload Validator](https://validator.w3.org/#validate_by_upload)*
 
+</details>
 
 ---
 

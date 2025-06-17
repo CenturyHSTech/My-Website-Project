@@ -1,9 +1,17 @@
 # My Website Project
 Apply your new-found web design markup and styling skills by creating a 4-page website based on a topic of your choice.
 
-**[Environment Set Up](#environment-set-up)** | **[Coding Your Project](#coding-your-project)** | **[Required Elements](#required-elements)**
 
-## Environment Set up 
+- Environment Set Up
+- Coding Your Project
+- Required Elements
+
+---
+
+
+<details>
+<summary><strong>Environment Set Up</strong></summary>
+
 Getting your project up and running in VS Code.
 1. Clone this project: `git clone`.
 2. Open the project in VS Code (double click on `About-Me-HTML-Part-1.code-workspace`)
@@ -32,9 +40,13 @@ Getting your project up and running in VS Code.
 16. If you want to see if you are doing it right, check your code by typing `pytest`.
 17. Once you think you're done, save your changes, make one last commit and push, and turn in your assignment by clicking the "Mark as Done" button.
 
-**[Environment Set Up](#environment-set-up)** | **[Coding Your Project](#coding-your-project)** | **[Required Elements](#required-elements)** | **[Back to the top](#my-schedule)**
+</details>
 
-## Coding Your Project
+---
+
+<details>
+<summary><strong>Coding Your Project</strong></summary>
+
 Once the environment is set up, and you're ready to code...
 
 1. Create a file named `index.html` in the `project` folder.
@@ -60,10 +72,11 @@ Once the environment is set up, and you're ready to code...
 *NOTE: as you are codign your page, be sure to check your page for errors using the [W3C File Upload Validator](https://validator.w3.org/#validate_by_upload)*
 
 
-**[Environment Set Up](#environment-set-up)** | **[Coding Your Project](#coding-your-project)** | **[Required Elements](#required-elements)** | **[Back to the top](#my-schedule)**
+---
 
-## Required Elements
-### HTML Main Requirements
+<details>
+<summary><strong>Required Elements</strong></summary>
+
 * Standard HTML Tags - there should be one for each page (no more no less)
     - `DOCTYPE`
     - `html`
@@ -99,5 +112,4 @@ Once the environment is set up, and you're ready to code...
 
 NOTE: to check for errors, be sure to upload your HTML file to the [W3C File Upload Validator](https://validator.w3.org/#validate_by_upload)
 
-
-**[Environment Set Up](#environment-set-up)** | **[Coding Your Project](#coding-your-project)** | **[Required Elements](#required-elements)** | **[Back to the top](#my-schedule)**
+</details>
